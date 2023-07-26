@@ -1,7 +1,7 @@
 # oldschool-prompt-beautifier
 Macos Ventura oldschool prompt beautifier
 
-![Alt text](Console. "Optional title")
+![Alt text](Console.png "Optional title")
 
 This is the prompt beautifier I designed to work with .zsh in MacOs Ventura.
 
