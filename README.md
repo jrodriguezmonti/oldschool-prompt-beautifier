@@ -1,6 +1,8 @@
 # oldschool-prompt-beautifier
 Macos Ventura oldschool prompt beautifier
 
+![Alt text](Console. "Optional title")
+
 This is the prompt beautifier I designed to work with .zsh in MacOs Ventura.
 
 It shows System information, date and time, and a random quote, all with vivid and nice colors. It makes me remember the sweet old times of programming and un*x.
